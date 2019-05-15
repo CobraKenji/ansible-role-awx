@@ -4,4 +4,4 @@ awx_repo_dir: "/root/awx"
 awx_version: devel
 awx_keep_updated: true
 awx_run_install_playbook: false
-postgres_data_dir: /var/lib/pgdocker
+postgres_data_dir: /etc/ansible/awx_postgres
